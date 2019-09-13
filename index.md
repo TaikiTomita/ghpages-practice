@@ -1,6 +1,6 @@
 # よぉこそ　とみとみのページへ
+<img src="./newicon.png" style="float:left;">
 いやまってたよぉ〜
-![メインアイコン](./newicon.png)
 
 ## お前は誰ぞ？
 山口大学の学生です。    
